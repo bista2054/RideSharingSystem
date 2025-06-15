@@ -1,0 +1,8 @@
+# ninja log v6
+1	308	1749998762778712568	CMakeFiles/untitled1.dir/PremiumRide.cpp.o	dd03134194733a8f
+1	334	1749998762778578652	CMakeFiles/untitled1.dir/StandardRide.cpp.o	4b08db3a0c4ff960
+1	459	1749998762778814400	CMakeFiles/untitled1.dir/Ride.cpp.o	3e0451eae907a1b2
+2	471	1749998762779171147	CMakeFiles/untitled1.dir/Rider.cpp.o	9fd16974ba54ea0a
+1	474	1749998762778912566	CMakeFiles/untitled1.dir/Driver.cpp.o	e4a87e1bc26a5165
+0	506	1749998762778032823	CMakeFiles/untitled1.dir/main.cpp.o	a80a5ac924b77dbb
+506	536	1749998763283725782	untitled1	53967e885526ba0f
