@@ -1,10 +1,9 @@
 ## Main Classes
 
-- `User`: Handles user registration, authentication, and user profile management.
-- `Driver`: Inherits from `User`, manages driver-specific data and actions.
-- `Vehicle`: Represents vehicles associated with drivers.
-- `Ride`: Manages ride booking, status, and fare calculation.
-- `RideManager`: Coordinates ride requests, assignments, and cancellations.
-- `FareCalculator`: Calculates ride fares based on distance, time, and other factors.
+- `Driver`: Manages driver-specific data and actions.
+- `Rider`: Handles rider-specific data and actions.
+- `StandardRide`: Represents a standard ride.
+- `PremiumRide`: Represents a premium ride.
+- `Ride`: Base class for ride types, manages booking, status, and fare calculation.
+- `Main`: Entry point of the application.
 
-Each class is designed using object-oriented principles for modularity and maintainability.
